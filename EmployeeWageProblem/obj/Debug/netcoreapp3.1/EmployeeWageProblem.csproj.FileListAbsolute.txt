@@ -1,0 +1,11 @@
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.exe
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.deps.json
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.runtimeconfig.json
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.runtimeconfig.dev.json
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.dll
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\bin\Debug\netcoreapp3.1\EmployeeWageProblem.pdb
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.csprojAssemblyReference.cache
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.AssemblyInfoInputs.cache
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.AssemblyInfo.cs
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.dll
+D:\RFP_291\Project\EmployeeWageProblem\EmployeeWageProblem\obj\Debug\netcoreapp3.1\EmployeeWageProblem.pdb
