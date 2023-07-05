@@ -7,7 +7,7 @@ namespace EmployeeWageProblem
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome To Employee wage Computation Program.");
-            EmployeeAttendance.CheckEmployeeAttendance();
+            EmployeeDailyWage.CalculateEmployeeDailyWage();
         }
     }
 }
